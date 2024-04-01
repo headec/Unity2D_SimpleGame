@@ -1,2 +1,4 @@
-# unity2d
-Unity 2D personal practice project
+# Jumping2D Project
+
+Simple Unity 2D Practice Project
+Get to the flag to win!
